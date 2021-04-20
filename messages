@@ -10,4 +10,9 @@ url:https://www.moddb.com/mods/blitzkrieg-2-total-conversion/downloads/total-con
 ====================================
 title:Quick fix 1.4.9.861
 date:03.04.2021
-message:Quick fix 1.4.9.861 has been released today. It fixes the bug of Polish voices for Czech infantry and 38-39 Japanese light AA reinforcement. Additionally some unit models were updated (Toldi I, Toldi II, Toldi III, Nimrod, Landsverk Anti II, 43M lehel transporter, Saab B17A, Heja II), some completely new units were added (Re. 2002, MC.205 Veltro, Nimord TD) and some unit textures tweaked.
+message:Quick fix 1.4.9.861 has been released today. It fixes the bug of Polish voices for Czech infantry and 39-40 Japanese light AA reinforcement. Additionally some unit models were updated (Toldi I, Toldi II, Toldi III, Nimrod, Landsverk Anti II, 43M lehel transporter, Saab B17A, Heja II), some completely new units were added (Re. 2002, MC.205 Veltro, Nimord TD) and some unit textures tweaked.
+====================================
+title:Updated Installer
+date:20.04.2021
+message:An updated version of TC 1.0 base version is here. Now it includes new 2.0 launcher and should be used as primary method of installing TC.
+url:https://www.moddb.com/mods/blitzkrieg-2-total-conversion/downloads/total-conversion-installer
