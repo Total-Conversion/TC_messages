@@ -16,3 +16,7 @@ title:Updated Installer
 date:20.04.2021
 message:An updated version of TC 1.0 base version is here. Now it includes new 2.0 launcher and should be used as primary method of installing TC.
 url:https://www.moddb.com/mods/blitzkrieg-2-total-conversion/downloads/total-conversion-installer
+====================================
+title:Updated Installer
+date:22.04.2021
+message:A small fix has been added due to a bug in the Japanese Campaign. The fix has no effect on the multiplayer mode.
