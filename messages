@@ -72,4 +72,7 @@ message:Update 1.9.4 has been released. New units have been added, new map (than
 title:Patch 1.9.5
 date:08.04.2023
 message:Charge! Update 1.9.5 has been released. Cavalry is now available in the first two tech tiers.  Many new units, two new multiplayer maps (thanks to Field_Marshal), new sounds and voices, improved balance.
-
+====================================
+title:Quick fix 1.4.9.51
+date:16.04.2022
+message:Quick fix 1.4.9.51 has been released today.  Fixes a voices bug that caused ear rape. It does not affect the synchronization of multiplayer games.
