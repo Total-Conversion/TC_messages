@@ -80,3 +80,7 @@ message:Quick fix 1.4.9.51 has been released today.  Fixes a voices bug that cau
 title:1.4.9.51-fx
 date:10.04.2023
 message:1.4.9.51 has been released today. Fixes a more bugged sounds and a bug with Bulgarian reinforcements in 1936-38. The use of grenades by cavalry has been improved.
+====================================
+title:1.4.9.52-fx
+date:22.04.2023
+message:Fix 1.4.9.52 has been released today. fixes critical bugs and adds missing textures for the M4A3E8. New 20x20 multiplayer map in two versions (thanks to Tobiasov). Improves balance (1943-1944 Soviet infantry has Bazookas, penetration of SU-85 self-propelled guns is higher).
