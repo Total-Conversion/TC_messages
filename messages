@@ -73,14 +73,18 @@ title:Patch 1.9.5
 date:08.04.2023
 message:Charge! Update 1.9.5 has been released. Cavalry is now available in the first two tech tiers.  Many new units, two new multiplayer maps (thanks to Field_Marshal), new sounds and voices, improved balance.
 ====================================
-title:Quick fix 1.4.9.51
+title:Quick fix 1.9.51
 date:09.04.2023
 message:Quick fix 1.4.9.51 has been released today.  Fixes a voices bug that caused ear rape. It does not affect the synchronization of multiplayer games.
 ====================================
-title:1.4.9.51-fx
+title:1.9.51-fx
 date:10.04.2023
 message:1.4.9.51 has been released today. Fixes a more bugged sounds and a bug with Bulgarian reinforcements in 1936-38. The use of grenades by cavalry has been improved.
 ====================================
-title:1.4.9.52-fx
+title:1.9.52-fx
 date:22.04.2023
 message:Fix 1.4.9.52 has been released today. fixes critical bugs and adds missing textures for the M4A3E8. New 20x20 multiplayer map in two versions (thanks to Tobiasov). Improves balance (1943-1944 Soviet infantry has Bazookas, penetration of SU-85 self-propelled guns is higher).
+====================================
+title:Patch 1.9.6
+date:08.06.2023
+message:The patch adds: 4 new multiplayer maps (by Tobi), new aircraft models LWS-3(by AXMXNSTXS), Lublin R-XIII, Aero A-300, Saab B-5 (by Vistula), PZL-46, Bloch MB 210 (by Tobi), new line of LT-38 tanks and Bf 109 Fighters (thanks to Enrico), other new units, improves balance, fixes known critical bugs.
